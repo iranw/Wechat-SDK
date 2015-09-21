@@ -1,0 +1,16 @@
+{
+    "name": "ir/weixin",
+    "type": "library",
+    "description": "Weixin SDK",
+    "keywords": ["weixin", "wechat","qq"],
+    "homepage": "http://www.phpno.com",
+    "license": "MIT",
+    "authors": [
+        {"name": "Iranw", "email": "wang_wenguan@yeah.net"}
+    ],
+    "autoload": {
+        "psr-4": { 
+            "Ir\\WeiXin\\": "lib/"
+        }
+    }
+}
